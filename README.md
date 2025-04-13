@@ -1,6 +1,6 @@
 # Faiz AI - by Ahmad jamil
 
-![Faiz AI Screenshot](./screenshot.png) <!-- Add screenshot if available -->
+![Faiz AI Screenshot](https://raw.githubusercontent.com/Ahmadjamil888/faiz-ai/refs/heads/main/Screenshot%20(34).png) <!-- Add screenshot if available -->
 
 A lightweight, browser-based AI assistant powered by Google's Gemini 2.0 Flash model, designed for fast and efficient conversations with markdown support.
 
